@@ -8,7 +8,7 @@ Hautement configurable, le bundle Symfony s'ajuste à tous les besoins :
 
 * Gestion des _Access Token_ :
   * [x] _Access Token_ basé sur JWT
-  * [x] _Access Token _basé sur une chaine aléatoire
+  * [x] \_Access Token \_basé sur une chaine aléatoire
   * [x] Possibilité d'utiliser un qutre type de gestionnaire
 * Types de Tokens :
   * [x] Bearer access token \([RFC6750](https://tools.ietf.org/html/rfc6750)\)
@@ -25,6 +25,7 @@ Hautement configurable, le bundle Symfony s'ajuste à tous les besoins :
   * [x] Clients avec assertion JWT \([RFC7521](https://tools.ietf.org/html/rfc7521) and [RFC7523](https://tools.ietf.org/html/rfc7523)\) - Voir`private_key_jwt` 
   * [x] Possibilité d'utiliser d'autres méchanismes d'authentification
 * Points d'entrée :
+
   * [x] Authorisation \([RFC6749, section 3.1](https://tools.ietf.org/html/rfc6749#section-3.1)\)
   * [x] Token \([RFC6749, section 3.2](https://tools.ietf.org/html/rfc6749#section-3.2)\)
   * [x] Révocation des Token \([RFC7009](https://tools.ietf.org/html/rfc7009)\)
@@ -38,9 +39,9 @@ Hautement configurable, le bundle Symfony s'ajuste à tous les besoins :
 
   * [x] Authorization code grant type \([RFC6749, section 4.1](https://tools.ietf.org/html/rfc6749#section-4.1)\)
     * [x] Proof Key for Code Exchange by OAuth Public Clients \([RFC7636](https://tools.ietf.org/html/rfc7636)\)
-      * [x] Plain
-      * [x] S256
-      * [x] Ability to use other challenge methods
+    * [x] Plain
+    * [x] S256
+    * [x] Ability to use other challenge methods
   * [x] Implicit grant type \([RFC6749, section 4.2](https://tools.ietf.org/html/rfc6749#section-4.2)\)
   * [x] Resource Owner Password Credentials grant type \([RFC6749, section 4.3](https://tools.ietf.org/html/rfc6749#section-4.3)\)
   * [x] Client credentials grant type \([RFC6749, section 4.4](https://tools.ietf.org/html/rfc6749#section-4.4)\)
@@ -61,8 +62,6 @@ Hautement configurable, le bundle Symfony s'ajuste à tous les besoins :
   * [Proof-of-Possession Key Semantics for JSON Web Tokens \(JWTs\)](https://tools.ietf.org/html/rfc7800)
   * [A Method for Signing an HTTP Requests for OAuth](https://tools.ietf.org/html/draft-ietf-oauth-signed-http-request)
   * [Token Exchange: An STS for the REST of Us](https://tools.ietf.org/html/draft-ietf-oauth-token-exchange)
-
-
 
 
 
