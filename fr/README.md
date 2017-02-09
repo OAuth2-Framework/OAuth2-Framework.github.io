@@ -8,7 +8,7 @@ Hautement configurable, le bundle Symfony s'ajuste à tous les besoins :
 
 * Gestion des _Access Token_ :
   * [x] _Access Token_ basé sur JWT
-  * [x] \_Access Token \_basé sur une chaine aléatoire
+  * [x] _Access Token_ basé sur une chaine aléatoire
   * [x] Possibilité d'utiliser un qutre type de gestionnaire
 * Types de Tokens :
   * [x] Bearer access token \([RFC6750](https://tools.ietf.org/html/rfc6750)\)
