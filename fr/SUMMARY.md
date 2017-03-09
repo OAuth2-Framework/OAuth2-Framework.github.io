@@ -24,3 +24,5 @@
   * Événements
 * OpenID Connect
 * Protection de resources
+* Symfony Bundle
+
